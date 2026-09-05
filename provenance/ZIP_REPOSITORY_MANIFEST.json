@@ -1,0 +1,1122 @@
+{
+  "archive_count": 36,
+  "archives": [
+    {
+      "bytes": 105381,
+      "code_files": 3,
+      "doc_files": 1,
+      "duplicate_group": [],
+      "entries": 5,
+      "extensions": {
+        ".json": 1,
+        ".log": 1,
+        ".md": 1,
+        ".py": 1,
+        ".yml": 1
+      },
+      "name": "5ch-to-Notebooklm-main.zip",
+      "path_traversal": [],
+      "sha256": "e89b80c97a9f8715ed9beb49bb07d227b770b0d8de7724b00c1fdeee77808f8d",
+      "suspicious_paths": [],
+      "top_levels": [
+        "5ch-to-Notebooklm-main"
+      ],
+      "uncompressed_bytes": 712857,
+      "valid_zip": true
+    },
+    {
+      "bytes": 224554,
+      "code_files": 0,
+      "doc_files": 1,
+      "duplicate_group": [],
+      "entries": 3,
+      "extensions": {
+        ".md": 1,
+        ".png": 1,
+        "[none]": 1
+      },
+      "name": "AcademIA-main.zip",
+      "path_traversal": [],
+      "sha256": "e711644e53a7bd2581ee09bb8881d099e53566a4437b66dd7794425906479629",
+      "suspicious_paths": [],
+      "top_levels": [
+        "AcademIA-main"
+      ],
+      "uncompressed_bytes": 237125,
+      "valid_zip": true
+    },
+    {
+      "bytes": 673183,
+      "code_files": 234,
+      "doc_files": 72,
+      "duplicate_group": [],
+      "entries": 322,
+      "extensions": {
+        ".css": 1,
+        ".example": 1,
+        ".ico": 1,
+        ".json": 8,
+        ".lock": 2,
+        ".md": 72,
+        ".mjs": 2,
+        ".prisma": 1,
+        ".sql": 9,
+        ".svg": 5,
+        ".toml": 1,
+        ".ts": 101,
+        ".tsx": 114,
+        ".yml": 1,
+        "[none]": 3
+      },
+      "name": "NoteBookLM-Clone-main(1).zip",
+      "path_traversal": [],
+      "sha256": "ce6cb5d37131e773b6155ade8e398d474dd77f3c7bc891658431eb7a1442c4c7",
+      "suspicious_paths": [
+        "NoteBookLM-Clone-main/server/.env.example"
+      ],
+      "top_levels": [
+        "NoteBookLM-Clone-main"
+      ],
+      "uncompressed_bytes": 2027251,
+      "valid_zip": true
+    },
+    {
+      "bytes": 2606685,
+      "code_files": 260,
+      "doc_files": 12,
+      "duplicate_group": [],
+      "entries": 300,
+      "extensions": {
+        ".bat": 2,
+        ".css": 1,
+        ".example": 1,
+        ".gif": 1,
+        ".ini": 1,
+        ".json": 7,
+        ".md": 8,
+        ".mjs": 2,
+        ".mts": 1,
+        ".png": 6,
+        ".py": 131,
+        ".sh": 2,
+        ".svg": 6,
+        ".ts": 62,
+        ".tsx": 50,
+        ".txt": 4,
+        ".yml": 7,
+        "[none]": 8
+      },
+      "name": "OpenNotebookLM-master.zip",
+      "path_traversal": [],
+      "sha256": "7fbd2d1f859277321ef0b0e61204bc5b7063a5387678fbce2cb96af778279eb7",
+      "suspicious_paths": [
+        "OpenNotebookLM-master/.env.example"
+      ],
+      "top_levels": [
+        "OpenNotebookLM-master"
+      ],
+      "uncompressed_bytes": 4706000,
+      "valid_zip": true
+    },
+    {
+      "bytes": 267951257,
+      "code_files": 3895,
+      "doc_files": 393,
+      "duplicate_group": [],
+      "entries": 4654,
+      "extensions": {
+        ".baseline": 1,
+        ".conf": 1,
+        ".css": 4,
+        ".example": 7,
+        ".gif": 20,
+        ".html": 11,
+        ".icns": 1,
+        ".ico": 2,
+        ".ini": 1,
+        ".js": 4,
+        ".json": 68,
+        ".jsonl": 3,
+        ".lock": 3,
+        ".mako": 1,
+        ".md": 383,
+        ".mdc": 6,
+        ".mdx": 71,
+        ".mjs": 10,
+        ".mp4": 15,
+        ".mts": 1,
+        ".pdf": 7,
+        ".plist": 1,
+        ".png": 83,
+        ".ps1": 3,
+        ".py": 2611,
+        ".sh": 5,
+        ".svg": 90,
+        ".toml": 5,
+        ".ts": 514,
+        ".tsx": 646,
+        ".ttf": 3,
+        ".txt": 3,
+        ".wav": 1,
+        ".webp": 2,
+        ".yaml": 12,
+        ".yml": 20,
+        "[none]": 35
+      },
+      "name": "SurfSense-main.zip",
+      "path_traversal": [],
+      "sha256": "fef22cfbd5a1c8eb95da1c8a240676e882e0e24f5f6128866b7be4c322120ab3",
+      "suspicious_paths": [
+        "SurfSense-main/.secrets.baseline",
+        "SurfSense-main/docker/.env.example",
+        "SurfSense-main/surfsense_backend/.env.example",
+        "SurfSense-main/surfsense_browser_extension/.env.example",
+        "SurfSense-main/surfsense_desktop/.env.example",
+        "SurfSense-main/surfsense_evals/.env.example",
+        "SurfSense-main/surfsense_mcp/.env.example",
+        "SurfSense-main/surfsense_web/.env.example"
+      ],
+      "top_levels": [
+        "SurfSense-main"
+      ],
+      "uncompressed_bytes": 299350794,
+      "valid_zip": true
+    },
+    {
+      "bytes": 29239,
+      "code_files": 3,
+      "doc_files": 2,
+      "duplicate_group": [],
+      "entries": 5,
+      "extensions": {
+        ".md": 1,
+        ".py": 2,
+        ".txt": 1,
+        ".yml": 1
+      },
+      "name": "cloud-updates-notebooklm-main.zip",
+      "path_traversal": [],
+      "sha256": "97ddbd0f874ec0cdfddc300551fa5dcee3c2634b007c41405e33926f97c8a51d",
+      "suspicious_paths": [],
+      "top_levels": [
+        "cloud-updates-notebooklm-main"
+      ],
+      "uncompressed_bytes": 95668,
+      "valid_zip": true
+    },
+    {
+      "bytes": 16426410,
+      "code_files": 352,
+      "doc_files": 126,
+      "duplicate_group": [],
+      "entries": 535,
+      "extensions": {
+        ".css": 8,
+        ".docx": 1,
+        ".example": 3,
+        ".html": 15,
+        ".js": 3,
+        ".json": 11,
+        ".jsx": 2,
+        ".md": 108,
+        ".mp3": 6,
+        ".mp4": 1,
+        ".pdf": 1,
+        ".png": 11,
+        ".py": 307,
+        ".svg": 25,
+        ".toml": 1,
+        ".ts": 1,
+        ".txt": 17,
+        ".yaml": 1,
+        ".yml": 4,
+        "[none]": 9
+      },
+      "name": "eduStudio-main.zip",
+      "path_traversal": [],
+      "sha256": "58e62742bae748e0910788ba209e11665dd2eaa6d3de7f52512fa702c41753de",
+      "suspicious_paths": [
+        "eduStudio-main/.env.example"
+      ],
+      "top_levels": [
+        "eduStudio-main"
+      ],
+      "uncompressed_bytes": 19764500,
+      "valid_zip": true
+    },
+    {
+      "bytes": 3737330,
+      "code_files": 54,
+      "doc_files": 124,
+      "duplicate_group": [],
+      "entries": 222,
+      "extensions": {
+        ".d2": 2,
+        ".ini": 1,
+        ".jinja": 1,
+        ".jpg": 7,
+        ".json": 4,
+        ".md": 123,
+        ".png": 2,
+        ".ps1": 1,
+        ".py": 41,
+        ".template": 5,
+        ".toml": 19,
+        ".txt": 1,
+        ".yaml": 1,
+        ".yml": 8,
+        "[none]": 6
+      },
+      "name": "gemini-api-rag-main.zip",
+      "path_traversal": [],
+      "sha256": "933cb2ad815651e903197eded0560b661003ab220c227738554f8d597439b626",
+      "suspicious_paths": [],
+      "top_levels": [
+        "gemini-api-rag-main"
+      ],
+      "uncompressed_bytes": 5182808,
+      "valid_zip": true
+    },
+    {
+      "bytes": 58959053,
+      "code_files": 13,
+      "doc_files": 185,
+      "duplicate_group": [],
+      "entries": 277,
+      "extensions": {
+        ".jpg": 27,
+        ".json": 1,
+        ".log": 2,
+        ".md": 184,
+        ".mp4": 1,
+        ".pdf": 1,
+        ".plist": 1,
+        ".png": 47,
+        ".py": 11,
+        ".sh": 1,
+        "[none]": 1
+      },
+      "name": "loackyPKM-main.zip",
+      "path_traversal": [],
+      "sha256": "b5dd353c563269150bcd6d2c91f9c4ffacc4efa171ebd40ce3a48721bed7160e",
+      "suspicious_paths": [],
+      "top_levels": [
+        "loackyPKM-main"
+      ],
+      "uncompressed_bytes": 62635840,
+      "valid_zip": true
+    },
+    {
+      "bytes": 4932,
+      "code_files": 0,
+      "doc_files": 1,
+      "duplicate_group": [],
+      "entries": 1,
+      "extensions": {
+        ".md": 1
+      },
+      "name": "miniguia-estudos-notebooklm-main(1).zip",
+      "path_traversal": [],
+      "sha256": "426b2e3cef888b3d5c5a9b78b6972e2a8f9fe564ac9e2fd02ff829a50448c568",
+      "suspicious_paths": [],
+      "top_levels": [
+        "miniguia-estudos-notebooklm-main"
+      ],
+      "uncompressed_bytes": 13743,
+      "valid_zip": true
+    },
+    {
+      "bytes": 680,
+      "code_files": 0,
+      "doc_files": 1,
+      "duplicate_group": [],
+      "entries": 1,
+      "extensions": {
+        ".md": 1
+      },
+      "name": "miniguia-estudos-notebooklm-main.zip",
+      "path_traversal": [],
+      "sha256": "b3b34a9df377baf63e6cea6bc811c65bab4d6b3da6475bd8721d47472ed3f12a",
+      "suspicious_paths": [],
+      "top_levels": [
+        "miniguia-estudos-notebooklm-main"
+      ],
+      "uncompressed_bytes": 425,
+      "valid_zip": true
+    },
+    {
+      "bytes": 435658,
+      "code_files": 48,
+      "doc_files": 6,
+      "duplicate_group": [],
+      "entries": 63,
+      "extensions": {
+        ".example": 1,
+        ".lock": 1,
+        ".md": 5,
+        ".pdf": 1,
+        ".png": 1,
+        ".py": 42,
+        ".tcss": 1,
+        ".toml": 1,
+        ".yaml": 6,
+        "[none]": 4
+      },
+      "name": "notebookllama-main.zip",
+      "path_traversal": [],
+      "sha256": "e7c8e95e431545cb5147dafbbd448b39fced28f96111cc852f2b46b70809ca15",
+      "suspicious_paths": [
+        "notebookllama-main/.env.example"
+      ],
+      "top_levels": [
+        "notebookllama-main"
+      ],
+      "uncompressed_bytes": 800475,
+      "valid_zip": true
+    },
+    {
+      "bytes": 2922109,
+      "code_files": 269,
+      "doc_files": 9,
+      "duplicate_group": [],
+      "entries": 383,
+      "extensions": {
+        ".app": 1,
+        ".conf": 3,
+        ".css": 8,
+        ".dockerignore": 1,
+        ".example": 2,
+        ".grafana": 1,
+        ".html": 9,
+        ".ini": 2,
+        ".ipynb": 1,
+        ".js": 17,
+        ".json": 7,
+        ".lock": 1,
+        ".mako": 1,
+        ".md": 9,
+        ".mjs": 4,
+        ".pem": 1,
+        ".pfb": 10,
+        ".png": 19,
+        ".postgres-exporter": 1,
+        ".py": 221,
+        ".rabbitmq": 1,
+        ".redis": 1,
+        ".svg": 21,
+        ".toml": 1,
+        ".ttf": 4,
+        ".woff2": 14,
+        ".yaml": 1,
+        ".yml": 6,
+        "[none]": 15
+      },
+      "name": "notebookllm-minus-main.zip",
+      "path_traversal": [],
+      "sha256": "d907a00fce5ace2f0dd1f47f0483c1041cb2179c62e9bc07e47d5f78afd3b359",
+      "suspicious_paths": [
+        "notebookllm-minus-main/Docker/.env.example",
+        "notebookllm-minus-main/Docker/env.example/.env.app",
+        "notebookllm-minus-main/Docker/env.example/.env.grafana",
+        "notebookllm-minus-main/Docker/env.example/.env.postgres-exporter",
+        "notebookllm-minus-main/Docker/env.example/.env.rabbitmq",
+        "notebookllm-minus-main/Docker/env.example/.env.redis",
+        "notebookllm-minus-main/private_ssh_aws.example/notebookllm-minus-dev-ssh.pem",
+        "notebookllm-minus-main/src/.env.example"
+      ],
+      "top_levels": [
+        "notebookllm-minus-main"
+      ],
+      "uncompressed_bytes": 7037982,
+      "valid_zip": true
+    },
+    {
+      "bytes": 222654,
+      "code_files": 83,
+      "doc_files": 2,
+      "duplicate_group": [],
+      "entries": 93,
+      "extensions": {
+        ".css": 1,
+        ".example": 1,
+        ".ico": 1,
+        ".iml": 1,
+        ".json": 5,
+        ".md": 2,
+        ".mjs": 2,
+        ".mts": 1,
+        ".sql": 1,
+        ".ts": 51,
+        ".tsx": 21,
+        ".xml": 3,
+        ".yml": 1,
+        "[none]": 2
+      },
+      "name": "notebooklm-clone-main.zip",
+      "path_traversal": [],
+      "sha256": "c00b3f23c53bf81dde5a76723f926f0e5b6157a2d70a287d488c3d6bc01222af",
+      "suspicious_paths": [
+        "notebooklm-clone-main/.env.example"
+      ],
+      "top_levels": [
+        "notebooklm-clone-main"
+      ],
+      "uncompressed_bytes": 734719,
+      "valid_zip": true
+    },
+    {
+      "bytes": 164737,
+      "code_files": 41,
+      "doc_files": 6,
+      "duplicate_group": [],
+      "entries": 50,
+      "extensions": {
+        ".js": 1,
+        ".json": 4,
+        ".md": 6,
+        ".ts": 36,
+        "[none]": 3
+      },
+      "name": "notebooklm-mcp-main.zip",
+      "path_traversal": [],
+      "sha256": "cdd96d69aa9359bad10f3582dda2da349bde0a26d69cb3e69be259228bf51b67",
+      "suspicious_paths": [],
+      "top_levels": [
+        "notebooklm-mcp-main"
+      ],
+      "uncompressed_bytes": 521437,
+      "valid_zip": true
+    },
+    {
+      "bytes": 334419638,
+      "code_files": 17,
+      "doc_files": 2,
+      "duplicate_group": [],
+      "entries": 40,
+      "extensions": {
+        ".html": 4,
+        ".json": 6,
+        ".md": 1,
+        ".mp3": 15,
+        ".png": 4,
+        ".py": 1,
+        ".sh": 2,
+        ".txt": 1,
+        ".xml": 4,
+        "[none]": 2
+      },
+      "name": "notebooklm-podcasts-main.zip",
+      "path_traversal": [],
+      "sha256": "b18e784b8092431f15c8b3500559cf0a3c62ff44b05de9f4ef6f6b1c578c3a51",
+      "suspicious_paths": [],
+      "top_levels": [
+        "notebooklm-podcasts-main"
+      ],
+      "uncompressed_bytes": 453760096,
+      "valid_zip": true
+    },
+    {
+      "bytes": 9258,
+      "code_files": 0,
+      "doc_files": 2,
+      "duplicate_group": [],
+      "entries": 4,
+      "extensions": {
+        ".md": 2,
+        "[none]": 2
+      },
+      "name": "notebooklm-prompt-engineering-guide-main.zip",
+      "path_traversal": [],
+      "sha256": "94c5547805af334a0fbaba89763c89450c8d20b9f23832fe9afce26a3c274c9a",
+      "suspicious_paths": [],
+      "top_levels": [
+        "notebooklm-prompt-engineering-guide-main"
+      ],
+      "uncompressed_bytes": 18410,
+      "valid_zip": true
+    },
+    {
+      "bytes": 23903708,
+      "code_files": 1831,
+      "doc_files": 102,
+      "duplicate_group": [
+        "notebooklm-py-main(1).zip",
+        "notebooklm-py-main.zip"
+      ],
+      "entries": 1984,
+      "extensions": {
+        ".csv": 2,
+        ".example": 2,
+        ".html": 34,
+        ".js": 1,
+        ".json": 168,
+        ".lock": 1,
+        ".md": 95,
+        ".patch": 1,
+        ".pb": 2,
+        ".png": 1,
+        ".proto": 26,
+        ".py": 1448,
+        ".sh": 1,
+        ".textproto": 5,
+        ".toml": 1,
+        ".txt": 7,
+        ".typed": 1,
+        ".yaml": 161,
+        ".yml": 18,
+        "[none]": 9
+      },
+      "name": "notebooklm-py-main(1).zip",
+      "path_traversal": [],
+      "sha256": "5e6a1efc86cb208a1ed996176766d19dad422aaf6762e0ae6f4a054bf5c825e9",
+      "suspicious_paths": [
+        "notebooklm-py-main/.env.example",
+        "notebooklm-py-main/deploy/.env.example",
+        "notebooklm-py-main/tests/cassettes/web/examples/example_scrubbed_cookies.yaml"
+      ],
+      "top_levels": [
+        "notebooklm-py-main"
+      ],
+      "uncompressed_bytes": 113652784,
+      "valid_zip": true
+    },
+    {
+      "bytes": 23902485,
+      "code_files": 1831,
+      "doc_files": 102,
+      "duplicate_group": [
+        "notebooklm-py-main(2).zip",
+        "notebooklm-py-main(3).zip"
+      ],
+      "entries": 1984,
+      "extensions": {
+        ".csv": 2,
+        ".example": 2,
+        ".html": 34,
+        ".js": 1,
+        ".json": 168,
+        ".lock": 1,
+        ".md": 95,
+        ".patch": 1,
+        ".pb": 2,
+        ".png": 1,
+        ".proto": 26,
+        ".py": 1448,
+        ".sh": 1,
+        ".textproto": 5,
+        ".toml": 1,
+        ".txt": 7,
+        ".typed": 1,
+        ".yaml": 161,
+        ".yml": 18,
+        "[none]": 9
+      },
+      "name": "notebooklm-py-main(2).zip",
+      "path_traversal": [],
+      "sha256": "702b703d0213b8956eb0e0e135d9dbe7fb07e49fa29faa45b722dccf6e9e7381",
+      "suspicious_paths": [
+        "notebooklm-py-main/.env.example",
+        "notebooklm-py-main/deploy/.env.example",
+        "notebooklm-py-main/tests/cassettes/web/examples/example_scrubbed_cookies.yaml"
+      ],
+      "top_levels": [
+        "notebooklm-py-main"
+      ],
+      "uncompressed_bytes": 113646282,
+      "valid_zip": true
+    },
+    {
+      "bytes": 23902485,
+      "code_files": 1831,
+      "doc_files": 102,
+      "duplicate_group": [
+        "notebooklm-py-main(2).zip",
+        "notebooklm-py-main(3).zip"
+      ],
+      "entries": 1984,
+      "extensions": {
+        ".csv": 2,
+        ".example": 2,
+        ".html": 34,
+        ".js": 1,
+        ".json": 168,
+        ".lock": 1,
+        ".md": 95,
+        ".patch": 1,
+        ".pb": 2,
+        ".png": 1,
+        ".proto": 26,
+        ".py": 1448,
+        ".sh": 1,
+        ".textproto": 5,
+        ".toml": 1,
+        ".txt": 7,
+        ".typed": 1,
+        ".yaml": 161,
+        ".yml": 18,
+        "[none]": 9
+      },
+      "name": "notebooklm-py-main(3).zip",
+      "path_traversal": [],
+      "sha256": "702b703d0213b8956eb0e0e135d9dbe7fb07e49fa29faa45b722dccf6e9e7381",
+      "suspicious_paths": [
+        "notebooklm-py-main/.env.example",
+        "notebooklm-py-main/deploy/.env.example",
+        "notebooklm-py-main/tests/cassettes/web/examples/example_scrubbed_cookies.yaml"
+      ],
+      "top_levels": [
+        "notebooklm-py-main"
+      ],
+      "uncompressed_bytes": 113646282,
+      "valid_zip": true
+    },
+    {
+      "bytes": 23903708,
+      "code_files": 1831,
+      "doc_files": 102,
+      "duplicate_group": [
+        "notebooklm-py-main(1).zip",
+        "notebooklm-py-main.zip"
+      ],
+      "entries": 1984,
+      "extensions": {
+        ".csv": 2,
+        ".example": 2,
+        ".html": 34,
+        ".js": 1,
+        ".json": 168,
+        ".lock": 1,
+        ".md": 95,
+        ".patch": 1,
+        ".pb": 2,
+        ".png": 1,
+        ".proto": 26,
+        ".py": 1448,
+        ".sh": 1,
+        ".textproto": 5,
+        ".toml": 1,
+        ".txt": 7,
+        ".typed": 1,
+        ".yaml": 161,
+        ".yml": 18,
+        "[none]": 9
+      },
+      "name": "notebooklm-py-main.zip",
+      "path_traversal": [],
+      "sha256": "5e6a1efc86cb208a1ed996176766d19dad422aaf6762e0ae6f4a054bf5c825e9",
+      "suspicious_paths": [
+        "notebooklm-py-main/.env.example",
+        "notebooklm-py-main/deploy/.env.example",
+        "notebooklm-py-main/tests/cassettes/web/examples/example_scrubbed_cookies.yaml"
+      ],
+      "top_levels": [
+        "notebooklm-py-main"
+      ],
+      "uncompressed_bytes": 113652784,
+      "valid_zip": true
+    },
+    {
+      "bytes": 183152,
+      "code_files": 10,
+      "doc_files": 8,
+      "duplicate_group": [],
+      "entries": 21,
+      "extensions": {
+        ".md": 7,
+        ".png": 1,
+        ".py": 10,
+        ".txt": 1,
+        "[none]": 2
+      },
+      "name": "notebooklm-skill-master.zip",
+      "path_traversal": [],
+      "sha256": "0a4d467f4d203d255384948b206e77ed32bf200a461dd73fa6b9f627fa8fad98",
+      "suspicious_paths": [],
+      "top_levels": [
+        "notebooklm-skill-master"
+      ],
+      "uncompressed_bytes": 268316,
+      "valid_zip": true
+    },
+    {
+      "bytes": 491038,
+      "code_files": 7,
+      "doc_files": 2,
+      "duplicate_group": [],
+      "entries": 11,
+      "extensions": {
+        ".md": 2,
+        ".sh": 7,
+        ".zip": 1,
+        "[none]": 1
+      },
+      "name": "notebooklm-toolkit-main.zip",
+      "path_traversal": [],
+      "sha256": "16f2307fe995d2e96927aa13f5af030cc222408f8b2430fec2e068af6725723d",
+      "suspicious_paths": [],
+      "top_levels": [
+        "notebooklm-toolkit-main"
+      ],
+      "uncompressed_bytes": 526139,
+      "valid_zip": true
+    },
+    {
+      "bytes": 71247284,
+      "code_files": 196,
+      "doc_files": 5868,
+      "duplicate_group": [],
+      "entries": 6208,
+      "extensions": {
+        ".bak_2026-04-25": 1,
+        ".bak_reset_20260529_091249": 1,
+        ".docx": 2,
+        ".epub": 16,
+        ".html": 1,
+        ".jpeg": 13,
+        ".jpg": 23,
+        ".json": 98,
+        ".jsonl": 1,
+        ".log": 6,
+        ".md": 5853,
+        ".pdf": 2,
+        ".plist": 2,
+        ".png": 6,
+        ".py": 79,
+        ".sh": 17,
+        ".template": 2,
+        ".toml": 12,
+        ".tsv": 9,
+        ".txt": 13,
+        ".yaml": 1,
+        "[none]": 50
+      },
+      "name": "notebooklm_edson-main.zip",
+      "path_traversal": [],
+      "sha256": "5d4eb17b39fd8393c1cc9e4efdff8314ab838ef50fec2cf27b2d04d25d8f2e95",
+      "suspicious_paths": [],
+      "top_levels": [
+        "notebooklm_edson-main"
+      ],
+      "uncompressed_bytes": 135832153,
+      "valid_zip": true
+    },
+    {
+      "bytes": 121010,
+      "code_files": 6,
+      "doc_files": 3,
+      "duplicate_group": [],
+      "entries": 12,
+      "extensions": {
+        ".md": 1,
+        ".pdf": 1,
+        ".py": 5,
+        ".txt": 1,
+        ".yml": 1,
+        "[none]": 3
+      },
+      "name": "open-notebooklm-main.zip",
+      "path_traversal": [],
+      "sha256": "7aca945d35d9ff51753c342c6f878ee7884533066be19175e5898f5452668d66",
+      "suspicious_paths": [],
+      "top_levels": [
+        "open-notebooklm-main"
+      ],
+      "uncompressed_bytes": 166024,
+      "valid_zip": true
+    },
+    {
+      "bytes": 141651938,
+      "code_files": 41,
+      "doc_files": 70,
+      "duplicate_group": [],
+      "entries": 181,
+      "extensions": {
+        ".bat": 1,
+        ".bib": 1,
+        ".dev": 1,
+        ".drawio": 1,
+        ".ipynb": 2,
+        ".jpeg": 3,
+        ".jpg": 4,
+        ".md": 30,
+        ".mp3": 38,
+        ".mp4": 5,
+        ".pdf": 4,
+        ".png": 3,
+        ".py": 31,
+        ".rst": 4,
+        ".sh": 1,
+        ".toml": 1,
+        ".txt": 32,
+        ".yaml": 4,
+        ".yml": 5,
+        "[none]": 10
+      },
+      "name": "podcastfy-main.zip",
+      "path_traversal": [],
+      "sha256": "0c1f6c797353dbc7ebb3e3f0e558b9b11912e66fb9881c3edcfb7758de1ee77e",
+      "suspicious_paths": [],
+      "top_levels": [
+        "podcastfy-main"
+      ],
+      "uncompressed_bytes": 150017702,
+      "valid_zip": true
+    },
+    {
+      "bytes": 1640193,
+      "code_files": 19,
+      "doc_files": 319,
+      "duplicate_group": [],
+      "entries": 342,
+      "extensions": {
+        ".csv": 1,
+        ".json": 6,
+        ".log": 1,
+        ".md": 310,
+        ".py": 13,
+        ".txt": 9,
+        "[none]": 2
+      },
+      "name": "professor-notebooklm-main.zip",
+      "path_traversal": [],
+      "sha256": "2ec931628356fee66b2a4957879ca67f53370702e6d8ac5aeb4c6c7b7e07ff5e",
+      "suspicious_paths": [],
+      "top_levels": [
+        "professor-notebooklm-main"
+      ],
+      "uncompressed_bytes": 3710928,
+      "valid_zip": true
+    },
+    {
+      "bytes": 54122,
+      "code_files": 13,
+      "doc_files": 5,
+      "duplicate_group": [],
+      "entries": 20,
+      "extensions": {
+        ".md": 3,
+        ".py": 9,
+        ".sh": 4,
+        ".txt": 2,
+        "[none]": 2
+      },
+      "name": "qiaomu-anything-to-notebooklm-main.zip",
+      "path_traversal": [],
+      "sha256": "28570ef7f6a5c9b0cb232cd8f8d36441bb8d10c7cbeadf5b1ba4aa69b71f5a39",
+      "suspicious_paths": [],
+      "top_levels": [
+        "qiaomu-anything-to-notebooklm-main"
+      ],
+      "uncompressed_bytes": 145894,
+      "valid_zip": true
+    },
+    {
+      "bytes": 69929,
+      "code_files": 5,
+      "doc_files": 2,
+      "duplicate_group": [],
+      "entries": 16,
+      "extensions": {
+        ".bin": 4,
+        ".iml": 1,
+        ".md": 1,
+        ".py": 1,
+        ".sqlite3": 1,
+        ".txt": 1,
+        ".xml": 4,
+        "[none]": 3
+      },
+      "name": "rag-notebooklm-main.zip",
+      "path_traversal": [],
+      "sha256": "cd10d51085b64e085215ff2b45f61595be98cdfc194eec1aafcab9175a7b6299",
+      "suspicious_paths": [],
+      "top_levels": [
+        "rag-notebooklm-main"
+      ],
+      "uncompressed_bytes": 464106,
+      "valid_zip": true
+    },
+    {
+      "bytes": 237592,
+      "code_files": 23,
+      "doc_files": 82,
+      "duplicate_group": [],
+      "entries": 107,
+      "extensions": {
+        ".json": 1,
+        ".md": 82,
+        ".py": 2,
+        ".sh": 19,
+        ".yml": 1,
+        "[none]": 2
+      },
+      "name": "skills-main(2).zip",
+      "path_traversal": [],
+      "sha256": "fdd64fcc03f84683012458a249b15e1c9902a990771b394b0c1e2ecf4700d6a6",
+      "suspicious_paths": [],
+      "top_levels": [
+        "skills-main"
+      ],
+      "uncompressed_bytes": 553185,
+      "valid_zip": true
+    },
+    {
+      "bytes": 69418,
+      "code_files": 9,
+      "doc_files": 3,
+      "duplicate_group": [],
+      "entries": 17,
+      "extensions": {
+        ".css": 1,
+        ".js": 1,
+        ".json": 5,
+        ".md": 3,
+        ".mjs": 3,
+        ".ts": 1,
+        ".yml": 1,
+        "[none]": 2
+      },
+      "name": "star-notebooklm-main.zip",
+      "path_traversal": [],
+      "sha256": "bfe3406ce303799a1a004c1beb044352b3db4bd7f64a4a1654e24d0a8d7abf55",
+      "suspicious_paths": [],
+      "top_levels": [
+        "star-notebooklm-main"
+      ],
+      "uncompressed_bytes": 288203,
+      "valid_zip": true
+    },
+    {
+      "bytes": 54218,
+      "code_files": 23,
+      "doc_files": 5,
+      "duplicate_group": [],
+      "entries": 31,
+      "extensions": {
+        ".example": 1,
+        ".json": 2,
+        ".md": 3,
+        ".py": 21,
+        ".txt": 2,
+        "[none]": 2
+      },
+      "name": "t2m-research-agent-main.zip",
+      "path_traversal": [],
+      "sha256": "ccb1eaa5b658db04f27fa398a06a6737752e4cf5eebb6205f82373cf722d91bf",
+      "suspicious_paths": [
+        "t2m-research-agent-main/.env.example",
+        "t2m-research-agent-main/ezproxy_cookies.json"
+      ],
+      "top_levels": [
+        "t2m-research-agent-main"
+      ],
+      "uncompressed_bytes": 136041,
+      "valid_zip": true
+    },
+    {
+      "bytes": 377398,
+      "code_files": 58,
+      "doc_files": 22,
+      "duplicate_group": [],
+      "entries": 81,
+      "extensions": {
+        ".json": 5,
+        ".md": 22,
+        ".py": 50,
+        ".yaml": 2,
+        ".yml": 1,
+        "[none]": 1
+      },
+      "name": "universal-transcriber-skill-main.zip",
+      "path_traversal": [],
+      "sha256": "3f6c4d1dc43e55b1a84fe9948b376a10eb414d2cce34c122a15be1ba9bc7c121",
+      "suspicious_paths": [],
+      "top_levels": [
+        "universal-transcriber-skill-main"
+      ],
+      "uncompressed_bytes": 1371877,
+      "valid_zip": true
+    },
+    {
+      "bytes": 2248997,
+      "code_files": 17,
+      "doc_files": 3,
+      "duplicate_group": [],
+      "entries": 35,
+      "extensions": {
+        ".command": 1,
+        ".html": 2,
+        ".js": 1,
+        ".md": 1,
+        ".png": 7,
+        ".py": 9,
+        ".sh": 1,
+        ".svg": 1,
+        ".toml": 1,
+        ".txt": 2,
+        ".webmanifest": 1,
+        ".xml": 1,
+        ".yml": 3,
+        "[none]": 4
+      },
+      "name": "unmark-main.zip",
+      "path_traversal": [],
+      "sha256": "87ce638d97d2425d2b08f39a8a84a9334d6bb7008af6c123661705f84d022859",
+      "suspicious_paths": [],
+      "top_levels": [
+        "unmark-main"
+      ],
+      "uncompressed_bytes": 2495931,
+      "valid_zip": true
+    },
+    {
+      "bytes": 1044567,
+      "code_files": 0,
+      "doc_files": 2,
+      "duplicate_group": [],
+      "entries": 5,
+      "extensions": {
+        ".md": 2,
+        ".zip": 2,
+        "[none]": 1
+      },
+      "name": "wechat-to-notebooklm-main.zip",
+      "path_traversal": [],
+      "sha256": "3a664e8148fa9a7a5d15a8587dc2e2b6879862a7698a4eb0d79d7536e1a1816b",
+      "suspicious_paths": [],
+      "top_levels": [
+        "wechat-to-notebooklm-main"
+      ],
+      "uncompressed_bytes": 1051475,
+      "valid_zip": true
+    },
+    {
+      "bytes": 30949,
+      "code_files": 5,
+      "doc_files": 7,
+      "duplicate_group": [],
+      "entries": 14,
+      "extensions": {
+        ".json": 1,
+        ".md": 6,
+        ".py": 3,
+        ".txt": 1,
+        ".yaml": 1,
+        "[none]": 2
+      },
+      "name": "zlibrary-to-notebooklm-main.zip",
+      "path_traversal": [],
+      "sha256": "996a7237c2293be50430a915f772e2325e7f636fdd88e9cf211e1ae23d3d4efb",
+      "suspicious_paths": [],
+      "top_levels": [
+        "zlibrary-to-notebooklm-main"
+      ],
+      "uncompressed_bytes": 81931,
+      "valid_zip": true
+    }
+  ],
+  "directories": [],
+  "directory_count": 0,
+  "schema": 1,
+  "source_root": "zip-repos"
+}

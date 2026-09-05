@@ -19,6 +19,8 @@ def test_build_release_creates_full_and_component_archives(tmp_path: Path):
     (root / 'src' / 'notebooklm_hub' / '__init__.py').write_text('', encoding='utf-8')
     (root / 'packages' / 'publisher' / 'pub.py').write_text('', encoding='utf-8')
     (root / 'packages' / 'skills' / 'research' / 'SKILL.md').write_text('skill', encoding='utf-8')
+    (root / 'zip-repos').mkdir()
+    (root / 'zip-repos' / 'private-source.zip').write_bytes(b'not bundled')
 
     out = tmp_path / 'dist'
     manifest = build_release(root, out, version='0.1.0')
@@ -39,3 +41,4 @@ def test_build_release_creates_full_and_component_archives(tmp_path: Path):
     for name in expected:
         with zipfile.ZipFile(out / name) as zf:
             assert zf.namelist()
+            assert not any(name.startswith('zip-repos/') for name in zf.namelist())

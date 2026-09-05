@@ -16,7 +16,18 @@ COMPONENTS: dict[str, tuple[str, ...]] = {
     "docs": ("docs", "research", "provenance", "README.md", "ARCHITECTURE.md", "CHANGELOG.md"),
 }
 
-EXCLUDED_PARTS = {".git", "dist", "__pycache__", ".pytest_cache", ".mypy_cache", ".ruff_cache"}
+EXCLUDED_PARTS = {
+    ".git",
+    ".pytest_cache",
+    ".mypy_cache",
+    ".ruff_cache",
+    ".DS_Store",
+    "__pycache__",
+    ".tmp",
+    ".verification",
+    "dist",
+    "zip-repos",
+}
 
 
 def _iter_files(root: Path, selectors: tuple[str, ...] | None = None):
