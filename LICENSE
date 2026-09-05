@@ -1,0 +1,8 @@
+NotebookLM Hub Proprietary Source Notice
+Copyright (c) 2026 AvaTar-ArTs. All rights reserved.
+
+Unless a file, directory, or provenance record states otherwise, original NotebookLM Hub source code, documentation, schemas, orchestration, research synthesis, and product architecture in this repository are proprietary and may not be copied, modified, redistributed, sublicensed, or commercially exploited without permission from the copyright holder.
+
+This repository also studies, interoperates with, adapts, or preserves lineage from third-party and open-source projects. Those components remain governed by their original licenses. See provenance/SOURCES.md and any license notices adjacent to vendored or adapted material. This notice does not relicense third-party work.
+
+Google NotebookLM / Gemini Notebook names and related marks belong to their respective owners. This project is not an official Google product.

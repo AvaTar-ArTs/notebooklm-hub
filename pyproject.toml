@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=75", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "notebooklm-hub"
+version = "0.1.0"
+description = "Evidence-aware knowledge transformation, research, memory, and publishing substrate."
+requires-python = ">=3.11"
+authors = [{name = "AvaTar-ArTs"}]
+readme = "README.md"
+license = {text = "Proprietary - see LICENSE and provenance/SOURCES.md"}
+dependencies = []
+
+[project.scripts]
+notebooklm-hub = "notebooklm_hub.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
