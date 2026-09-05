@@ -1,0 +1,57 @@
+name: verify-and-package
+
+on:
+  push:
+    branches:
+      - consolidate/notebooklm-core
+  pull_request:
+
+jobs:
+  verify-package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install Hub and test tooling
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e . pytest
+
+      - name: Run tests
+        run: python -m pytest -q
+
+      - name: Run structural doctor
+        run: |
+          mkdir -p dist
+          notebooklm-hub doctor --json | tee dist/doctor.json
+
+      - name: Build release bundles
+        run: notebooklm-hub release --root . --out dist --version 0.1.0-alpha
+
+      - name: Validate ZIP archives
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+          archives = sorted(Path('dist').glob('*.zip'))
+          assert len(archives) == 6, f'expected 6 archives, got {len(archives)}'
+          for archive in archives:
+              with ZipFile(archive) as zf:
+                  bad = zf.testzip()
+                  assert bad is None, f'{archive}: corrupt member {bad}'
+                  assert zf.namelist(), f'{archive}: empty archive'
+          print(f'validated {len(archives)} archives')
+          PY
+
+      - name: Upload release set
+        uses: actions/upload-artifact@v4
+        with:
+          name: notebooklm-hub-0.1.0-alpha-packages
+          path: dist/
+          if-no-files-found: error
