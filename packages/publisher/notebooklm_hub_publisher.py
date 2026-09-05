@@ -28,6 +28,7 @@ from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable
+from urllib.parse import quote
 
 
 BUILD_RE = re.compile(r"^\d{4}$")
@@ -138,11 +139,11 @@ def human_size(size: int) -> str:
     return f"{size} B"
 
 
-def render_notebook(record: NotebookRecord, archive_root: Path, page: Path) -> str:
+def render_notebook(record: NotebookRecord, artifact_root: Path, page: Path) -> str:
     rows: list[str] = []
     for artifact in record.artifacts:
-        target = archive_root / artifact.path
-        href = Path(os.path.relpath(target, page.parent)).as_posix()
+        target = artifact_root / artifact.path
+        href = quote(Path(os.path.relpath(target, page.parent)).as_posix(), safe="/:@-._~!$&'()*+,;=")
         rows.append(
             "<tr>"
             f"<td>{html.escape(artifact.kind)}</td>"
@@ -186,13 +187,21 @@ def publish(archive_root: Path, output_root: Path) -> Path:
     build_id = next_build_id(versions_dir)
     build_dir = versions_dir / build_id
     records = discover_notebooks(archive_root)
+    artifact_root = build_dir / "artifacts"
+
+    for record in records:
+        for artifact in record.artifacts:
+            source = archive_root / artifact.path
+            destination = artifact_root / artifact.path
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source, destination)
 
     write(build_dir / "styles.css", CSS)
     write(build_dir / "index.html", render_index(records, build_id))
 
     for record in records:
         page = build_dir / "notebooks" / f"{record.slug}.html"
-        write(page, render_notebook(record, archive_root, page))
+        write(page, render_notebook(record, artifact_root, page))
 
     manifest = {
         "schema": 1,

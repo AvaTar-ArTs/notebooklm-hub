@@ -46,7 +46,7 @@ def main(argv: list[str] | None = None) -> int:
         else:
             for name, present in result.items():
                 print(f"{'OK' if present else 'MISSING':7} {name}")
-        return 0
+        return 0 if all(result.values()) else 1
     if args.command == "release":
         manifest = build_release(args.root, args.out, version=args.version)
         print(json.dumps(manifest, indent=2, sort_keys=True))

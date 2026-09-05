@@ -9,12 +9,16 @@ def test_doctor_reports_repository_capabilities(tmp_path: Path, capsys):
     (tmp_path / 'src' / 'notebooklm_hub').mkdir(parents=True)
     (tmp_path / 'tests').mkdir()
     rc = main(['doctor', '--root', str(tmp_path), '--json'])
-    assert rc == 0
+    assert rc == 1
     data = json.loads(capsys.readouterr().out)
     assert data['research'] is True
     assert data['runtime'] is True
     assert data['tests'] is True
     assert data['provenance'] is False
+
+
+def test_doctor_fails_when_repository_is_incomplete(tmp_path: Path):
+    assert main(['doctor', '--root', str(tmp_path), '--json']) == 1
 
 
 def test_release_command_builds_archives(tmp_path: Path):
