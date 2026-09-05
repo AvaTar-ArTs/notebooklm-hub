@@ -1,0 +1,1240 @@
+{
+  "directories": [
+    {
+      "bytes": 712857,
+      "code_files": 2,
+      "doc_files": 1,
+      "extensions": {
+        ".json": 1,
+        ".log": 1,
+        ".md": 1,
+        ".py": 1,
+        ".yml": 1
+      },
+      "files": 5,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [],
+      "name": "5ch-to-Notebooklm-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 237125,
+      "code_files": 0,
+      "doc_files": 1,
+      "extensions": {
+        ".md": 1,
+        ".png": 1,
+        "[none]": 1
+      },
+      "files": 3,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "AcademIA-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 2033399,
+      "code_files": 226,
+      "doc_files": 72,
+      "extensions": {
+        ".css": 1,
+        ".example": 1,
+        ".ico": 1,
+        ".json": 8,
+        ".lock": 2,
+        ".md": 72,
+        ".mjs": 2,
+        ".prisma": 1,
+        ".sql": 9,
+        ".svg": 5,
+        ".toml": 1,
+        ".ts": 101,
+        ".tsx": 114,
+        ".yml": 1,
+        "[none]": 4
+      },
+      "files": 323,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [],
+      "name": "NoteBookLM-Clone-main",
+      "readmes": [],
+      "sensitive_paths": [
+        "server/.env.example"
+      ]
+    },
+    {
+      "bytes": 4742888,
+      "code_files": 253,
+      "doc_files": 12,
+      "extensions": {
+        ".bat": 2,
+        ".css": 1,
+        ".example": 1,
+        ".gif": 1,
+        ".ini": 1,
+        ".json": 7,
+        ".md": 8,
+        ".mjs": 2,
+        ".mts": 1,
+        ".png": 6,
+        ".py": 131,
+        ".sh": 2,
+        ".svg": 6,
+        ".ts": 62,
+        ".tsx": 50,
+        ".txt": 4,
+        ".yml": 7,
+        "[none]": 14
+      },
+      "files": 306,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "OpenNotebookLM-master",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": [
+        ".env.example"
+      ]
+    },
+    {
+      "bytes": 299425393,
+      "code_files": 3827,
+      "doc_files": 393,
+      "extensions": {
+        ".baseline": 1,
+        ".conf": 1,
+        ".css": 4,
+        ".example": 7,
+        ".gif": 20,
+        ".html": 11,
+        ".icns": 1,
+        ".ico": 2,
+        ".ini": 1,
+        ".js": 4,
+        ".json": 68,
+        ".jsonl": 3,
+        ".lock": 3,
+        ".mako": 1,
+        ".md": 383,
+        ".mdc": 6,
+        ".mdx": 71,
+        ".mjs": 10,
+        ".mp4": 15,
+        ".mts": 1,
+        ".pdf": 7,
+        ".png": 83,
+        ".ps1": 3,
+        ".py": 2611,
+        ".sh": 5,
+        ".svg": 90,
+        ".toml": 5,
+        ".ts": 514,
+        ".tsx": 646,
+        ".ttf": 3,
+        ".txt": 3,
+        ".wav": 1,
+        ".webp": 2,
+        ".yaml": 12,
+        ".yml": 20,
+        "[none]": 46
+      },
+      "files": 4664,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 4,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE",
+        "surfsense_backend/app/proprietary/LICENSE",
+        "surfsense_obsidian/LICENSE",
+        "surfsense_web/LICENSE"
+      ],
+      "name": "SurfSense-main",
+      "readmes": [
+        "README.es.md",
+        "README.hi.md",
+        "README.md",
+        "README.pt-BR.md",
+        "README.zh-CN.md"
+      ],
+      "sensitive_paths": [
+        ".secrets.baseline",
+        "docker/.env.example",
+        "surfsense_backend/.env.example",
+        "surfsense_browser_extension/.env.example",
+        "surfsense_desktop/.env.example",
+        "surfsense_evals/.env.example",
+        "surfsense_mcp/.env.example",
+        "surfsense_web/.env.example"
+      ]
+    },
+    {
+      "bytes": 95668,
+      "code_files": 3,
+      "doc_files": 2,
+      "extensions": {
+        ".md": 1,
+        ".py": 2,
+        ".txt": 1,
+        ".yml": 1
+      },
+      "files": 5,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [],
+      "name": "cloud-updates-notebooklm-main",
+      "readmes": [],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 19813680,
+      "code_files": 341,
+      "doc_files": 126,
+      "extensions": {
+        ".css": 8,
+        ".docx": 1,
+        ".example": 3,
+        ".html": 15,
+        ".js": 3,
+        ".json": 11,
+        ".jsx": 2,
+        ".md": 108,
+        ".mp3": 6,
+        ".mp4": 1,
+        ".pdf": 1,
+        ".png": 11,
+        ".py": 307,
+        ".svg": 25,
+        ".toml": 1,
+        ".ts": 1,
+        ".txt": 17,
+        ".yaml": 1,
+        ".yml": 4,
+        "[none]": 16
+      },
+      "files": 542,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 1919,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "eduStudio-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": [
+        ".env.example"
+      ]
+    },
+    {
+      "bytes": 5201252,
+      "code_files": 50,
+      "doc_files": 124,
+      "extensions": {
+        ".d2": 2,
+        ".ini": 1,
+        ".jinja": 1,
+        ".jpg": 7,
+        ".json": 4,
+        ".md": 123,
+        ".png": 2,
+        ".ps1": 1,
+        ".py": 41,
+        ".template": 5,
+        ".toml": 19,
+        ".txt": 1,
+        ".yaml": 1,
+        ".yml": 8,
+        "[none]": 9
+      },
+      "files": 225,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE",
+        "License-1"
+      ],
+      "name": "gemini-api-rag-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 62664528,
+      "code_files": 12,
+      "doc_files": 185,
+      "extensions": {
+        ".jpg": 27,
+        ".json": 1,
+        ".log": 2,
+        ".md": 184,
+        ".mp4": 1,
+        ".pdf": 1,
+        ".plist": 1,
+        ".png": 47,
+        ".py": 11,
+        ".sh": 1,
+        "[none]": 5
+      },
+      "files": 281,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [],
+      "name": "loackyPKM-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 13743,
+      "code_files": 0,
+      "doc_files": 1,
+      "extensions": {
+        ".md": 1
+      },
+      "files": 1,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [],
+      "name": "miniguia-estudos-notebooklm-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 425,
+      "code_files": 0,
+      "doc_files": 1,
+      "extensions": {
+        ".md": 1
+      },
+      "files": 1,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [],
+      "name": "miniguia-estudos-notebooklm-main 2",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 808671,
+      "code_files": 48,
+      "doc_files": 6,
+      "extensions": {
+        ".example": 1,
+        ".lock": 1,
+        ".md": 5,
+        ".pdf": 1,
+        ".png": 1,
+        ".py": 42,
+        ".tcss": 1,
+        ".toml": 1,
+        ".yaml": 6,
+        "[none]": 5
+      },
+      "files": 64,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "notebookllama-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": [
+        ".env.example"
+      ]
+    },
+    {
+      "bytes": 7070766,
+      "code_files": 262,
+      "doc_files": 9,
+      "extensions": {
+        ".app": 1,
+        ".conf": 3,
+        ".css": 8,
+        ".dockerignore": 1,
+        ".example": 2,
+        ".grafana": 1,
+        ".html": 9,
+        ".ini": 2,
+        ".ipynb": 1,
+        ".js": 17,
+        ".json": 7,
+        ".lock": 1,
+        ".mako": 1,
+        ".md": 9,
+        ".mjs": 4,
+        ".pem": 1,
+        ".pfb": 10,
+        ".png": 19,
+        ".postgres-exporter": 1,
+        ".py": 221,
+        ".rabbitmq": 1,
+        ".redis": 1,
+        ".svg": 21,
+        ".toml": 1,
+        ".ttf": 4,
+        ".woff2": 14,
+        ".yaml": 1,
+        ".yml": 6,
+        "[none]": 19
+      },
+      "files": 387,
+      "language_signals": {
+        "arabic": 12,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE",
+        "src/web/static/js/vendor/standard_fonts/LICENSE_FOXIT",
+        "src/web/static/js/vendor/standard_fonts/LICENSE_LIBERATION"
+      ],
+      "name": "notebookllm-minus-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": [
+        "Docker/.env.example",
+        "Docker/env.example/.env.app",
+        "Docker/env.example/.env.grafana",
+        "Docker/env.example/.env.postgres-exporter",
+        "Docker/env.example/.env.rabbitmq",
+        "Docker/env.example/.env.redis",
+        "private_ssh_aws.example/notebookllm-minus-dev-ssh.pem",
+        "src/.env.example"
+      ]
+    },
+    {
+      "bytes": 747015,
+      "code_files": 78,
+      "doc_files": 2,
+      "extensions": {
+        ".css": 1,
+        ".example": 1,
+        ".ico": 1,
+        ".iml": 1,
+        ".json": 5,
+        ".md": 2,
+        ".mjs": 2,
+        ".mts": 1,
+        ".sql": 1,
+        ".ts": 51,
+        ".tsx": 21,
+        ".xml": 3,
+        ".yml": 1,
+        "[none]": 4
+      },
+      "files": 95,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [],
+      "name": "notebooklm-clone-main 2",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": [
+        ".env.example"
+      ]
+    },
+    {
+      "bytes": 535781,
+      "code_files": 37,
+      "doc_files": 6,
+      "extensions": {
+        ".js": 1,
+        ".json": 4,
+        ".md": 6,
+        ".ts": 36,
+        "[none]": 5
+      },
+      "files": 52,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "notebooklm-mcp-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 453772392,
+      "code_files": 11,
+      "doc_files": 2,
+      "extensions": {
+        ".html": 4,
+        ".json": 6,
+        ".md": 1,
+        ".mp3": 15,
+        ".png": 4,
+        ".py": 1,
+        ".sh": 2,
+        ".txt": 1,
+        ".xml": 4,
+        "[none]": 4
+      },
+      "files": 42,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [],
+      "name": "notebooklm-podcasts-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 18410,
+      "code_files": 0,
+      "doc_files": 2,
+      "extensions": {
+        ".md": 2,
+        "[none]": 2
+      },
+      "files": 4,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "notebooklm-prompt-engineering-guide-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 113674970,
+      "code_files": 1663,
+      "doc_files": 102,
+      "extensions": {
+        ".csv": 2,
+        ".example": 2,
+        ".html": 34,
+        ".js": 1,
+        ".json": 168,
+        ".lock": 1,
+        ".md": 95,
+        ".patch": 1,
+        ".pb": 2,
+        ".png": 1,
+        ".proto": 26,
+        ".py": 1448,
+        ".sh": 1,
+        ".textproto": 5,
+        ".toml": 1,
+        ".txt": 7,
+        ".typed": 1,
+        ".yaml": 161,
+        ".yml": 18,
+        "[none]": 13
+      },
+      "files": 1988,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "notebooklm-py-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": [
+        ".env.example",
+        "deploy/.env.example",
+        "tests/cassettes/web/examples/example_scrubbed_cookies.yaml"
+      ]
+    },
+    {
+      "bytes": 113681472,
+      "code_files": 1663,
+      "doc_files": 102,
+      "extensions": {
+        ".csv": 2,
+        ".example": 2,
+        ".html": 34,
+        ".js": 1,
+        ".json": 168,
+        ".lock": 1,
+        ".md": 95,
+        ".patch": 1,
+        ".pb": 2,
+        ".png": 1,
+        ".proto": 26,
+        ".py": 1448,
+        ".sh": 1,
+        ".textproto": 5,
+        ".toml": 1,
+        ".txt": 7,
+        ".typed": 1,
+        ".yaml": 161,
+        ".yml": 18,
+        "[none]": 13
+      },
+      "files": 1988,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "notebooklm-py-main 2",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": [
+        ".env.example",
+        "deploy/.env.example",
+        "tests/cassettes/web/examples/example_scrubbed_cookies.yaml"
+      ]
+    },
+    {
+      "bytes": 113674970,
+      "code_files": 1663,
+      "doc_files": 102,
+      "extensions": {
+        ".csv": 2,
+        ".example": 2,
+        ".html": 34,
+        ".js": 1,
+        ".json": 168,
+        ".lock": 1,
+        ".md": 95,
+        ".patch": 1,
+        ".pb": 2,
+        ".png": 1,
+        ".proto": 26,
+        ".py": 1448,
+        ".sh": 1,
+        ".textproto": 5,
+        ".toml": 1,
+        ".txt": 7,
+        ".typed": 1,
+        ".yaml": 161,
+        ".yml": 18,
+        "[none]": 13
+      },
+      "files": 1988,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "notebooklm-py-main 3",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": [
+        ".env.example",
+        "deploy/.env.example",
+        "tests/cassettes/web/examples/example_scrubbed_cookies.yaml"
+      ]
+    },
+    {
+      "bytes": 113681472,
+      "code_files": 1663,
+      "doc_files": 102,
+      "extensions": {
+        ".csv": 2,
+        ".example": 2,
+        ".html": 34,
+        ".js": 1,
+        ".json": 168,
+        ".lock": 1,
+        ".md": 95,
+        ".patch": 1,
+        ".pb": 2,
+        ".png": 1,
+        ".proto": 26,
+        ".py": 1448,
+        ".sh": 1,
+        ".textproto": 5,
+        ".toml": 1,
+        ".txt": 7,
+        ".typed": 1,
+        ".yaml": 161,
+        ".yml": 18,
+        "[none]": 13
+      },
+      "files": 1988,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "notebooklm-py-main 4",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": [
+        ".env.example",
+        "deploy/.env.example",
+        "tests/cassettes/web/examples/example_scrubbed_cookies.yaml"
+      ]
+    },
+    {
+      "bytes": 274464,
+      "code_files": 10,
+      "doc_files": 8,
+      "extensions": {
+        ".md": 7,
+        ".png": 1,
+        ".py": 10,
+        ".txt": 1,
+        "[none]": 3
+      },
+      "files": 22,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "notebooklm-skill-master",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 526139,
+      "code_files": 7,
+      "doc_files": 2,
+      "extensions": {
+        ".md": 2,
+        ".sh": 7,
+        ".zip": 1,
+        "[none]": 1
+      },
+      "files": 11,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "notebooklm-toolkit-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 135846406,
+      "code_files": 98,
+      "doc_files": 5868,
+      "extensions": {
+        ".bak_2026-04-25": 1,
+        ".bak_reset_20260529_091249": 1,
+        ".docx": 2,
+        ".epub": 16,
+        ".html": 1,
+        ".jpeg": 13,
+        ".jpg": 23,
+        ".json": 97,
+        ".jsonl": 1,
+        ".log": 6,
+        ".md": 5853,
+        ".pdf": 2,
+        ".plist": 2,
+        ".png": 6,
+        ".py": 79,
+        ".sh": 17,
+        ".template": 2,
+        ".toml": 12,
+        ".tsv": 9,
+        ".txt": 13,
+        ".yaml": 1,
+        "[none]": 52
+      },
+      "files": 6209,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [],
+      "name": "notebooklm_edson-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 172172,
+      "code_files": 6,
+      "doc_files": 3,
+      "extensions": {
+        ".md": 1,
+        ".pdf": 1,
+        ".py": 5,
+        ".txt": 1,
+        ".yml": 1,
+        "[none]": 4
+      },
+      "files": 13,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "open-notebooklm-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 150036146,
+      "code_files": 41,
+      "doc_files": 70,
+      "extensions": {
+        ".bat": 1,
+        ".bib": 1,
+        ".dev": 1,
+        ".drawio": 1,
+        ".ipynb": 2,
+        ".jpeg": 3,
+        ".jpg": 4,
+        ".md": 30,
+        ".mp3": 38,
+        ".mp4": 5,
+        ".pdf": 4,
+        ".png": 3,
+        ".py": 31,
+        ".rst": 4,
+        ".sh": 1,
+        ".toml": 1,
+        ".txt": 32,
+        ".yaml": 4,
+        ".yml": 5,
+        "[none]": 13
+      },
+      "files": 184,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE",
+        "docs/source/usage/license-guide.md",
+        "usage/license-guide.md"
+      ],
+      "name": "podcastfy-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 3739612,
+      "code_files": 13,
+      "doc_files": 319,
+      "extensions": {
+        ".csv": 1,
+        ".json": 6,
+        ".log": 1,
+        ".md": 310,
+        ".py": 13,
+        ".txt": 9,
+        "[none]": 5
+      },
+      "files": 345,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "professor-notebooklm-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 152042,
+      "code_files": 13,
+      "doc_files": 5,
+      "extensions": {
+        ".md": 3,
+        ".py": 9,
+        ".sh": 4,
+        ".txt": 2,
+        "[none]": 3
+      },
+      "files": 21,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 1942,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "qiaomu-anything-to-notebooklm-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 470254,
+      "code_files": 5,
+      "doc_files": 2,
+      "extensions": {
+        ".bin": 4,
+        ".iml": 1,
+        ".md": 1,
+        ".py": 1,
+        ".sqlite3": 1,
+        ".txt": 1,
+        ".xml": 4,
+        "[none]": 4
+      },
+      "files": 17,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "rag-notebooklm-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 575725,
+      "code_files": 22,
+      "doc_files": 82,
+      "extensions": {
+        ".json": 1,
+        ".md": 82,
+        ".py": 2,
+        ".sh": 19,
+        ".yml": 1,
+        "[none]": 5
+      },
+      "files": 110,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "skills-main",
+      "readmes": [
+        "README.md",
+        "README.pt-br.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 288203,
+      "code_files": 4,
+      "doc_files": 3,
+      "extensions": {
+        ".css": 1,
+        ".js": 1,
+        ".json": 5,
+        ".md": 3,
+        ".mjs": 3,
+        ".ts": 1,
+        ".yml": 1,
+        "[none]": 2
+      },
+      "files": 17,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 3
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "star-notebooklm-main",
+      "readmes": [
+        "README.md",
+        "README_KO.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 142189,
+      "code_files": 21,
+      "doc_files": 5,
+      "extensions": {
+        ".example": 1,
+        ".json": 2,
+        ".md": 3,
+        ".py": 21,
+        ".txt": 2,
+        "[none]": 3
+      },
+      "files": 32,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [],
+      "name": "t2m-research-agent-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": [
+        ".env.example",
+        "ezproxy_cookies.json"
+      ]
+    },
+    {
+      "bytes": 1390321,
+      "code_files": 53,
+      "doc_files": 22,
+      "extensions": {
+        ".json": 5,
+        ".md": 22,
+        ".py": 50,
+        ".yaml": 2,
+        ".yml": 1,
+        "[none]": 4
+      },
+      "files": 84,
+      "language_signals": {
+        "arabic": 85,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [],
+      "name": "universal-transcriber-skill-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 2502079,
+      "code_files": 17,
+      "doc_files": 3,
+      "extensions": {
+        ".command": 1,
+        ".html": 2,
+        ".js": 1,
+        ".md": 1,
+        ".png": 7,
+        ".py": 9,
+        ".sh": 1,
+        ".svg": 1,
+        ".toml": 1,
+        ".txt": 2,
+        ".webmanifest": 1,
+        ".xml": 1,
+        ".yml": 3,
+        "[none]": 5
+      },
+      "files": 36,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 3938,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "unmark-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 1051475,
+      "code_files": 0,
+      "doc_files": 2,
+      "extensions": {
+        ".md": 2,
+        ".zip": 2,
+        "[none]": 1
+      },
+      "files": 5,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 0,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "wechat-to-notebooklm-main",
+      "readmes": [
+        "README.md"
+      ],
+      "sensitive_paths": []
+    },
+    {
+      "bytes": 88079,
+      "code_files": 4,
+      "doc_files": 7,
+      "extensions": {
+        ".json": 1,
+        ".md": 6,
+        ".py": 3,
+        ".txt": 1,
+        ".yaml": 1,
+        "[none]": 3
+      },
+      "files": 15,
+      "language_signals": {
+        "arabic": 0,
+        "cjk": 4,
+        "cyrillic": 0,
+        "korean": 0
+      },
+      "licenses": [
+        "LICENSE"
+      ],
+      "name": "zlibrary-to-notebooklm-main",
+      "readmes": [
+        "README.md",
+        "README.zh-CN.md"
+      ],
+      "sensitive_paths": []
+    }
+  ],
+  "directory_count": 36,
+  "schema": 1,
+  "source_root": "notebooklm-zip-repos"
+}
